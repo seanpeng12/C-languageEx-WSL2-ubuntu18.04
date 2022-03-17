@@ -6,3 +6,6 @@
 /.cache
 /.config
 /.local
+/.ssh
+
+.bash_history

@@ -1288,3 +1288,91 @@ ls
 ls -l
 wsl-l
 wsl -l
+ls
+ls -l
+cd structureEx/
+ls
+ls -l
+cd .. 
+cd stringEx/
+ls
+ls 
+ls -;
+ls -l
+nano strlen.c
+./strlen
+s
+ls
+ls -l
+gcc strlen.c -o strlen
+./strlen
+gcc strlen.c -o strlen
+./strlen
+ls -l
+ls 
+./string-size
+ls
+sudo apt-get install git
+ls
+cd ..
+ls
+cd .
+cd ..
+ls
+cd seanpeng12/
+ls
+cd ..
+ls
+cd seanpeng12
+;s
+ls
+git init
+ls
+ls -l
+ls -a
+ls -l -a
+tough README.md
+ls
+ls -l
+ls -l -a
+git add README.md
+git 
+git --version
+git add README.md
+nano README.md
+ls
+git add README.md
+git status
+git add .
+git status
+ls
+ls -l -a
+touch .gitignore
+nano .gitignore
+git status
+git reset .
+git status
+git add .
+git status
+git reset .
+git status
+nano .gitignore 
+git status
+git add .
+git status
+git commit -m "first commit"
+git config --global user.email "seanpeng12@gmail.com"
+git config --global user.name "seanpeng12"
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+git log
+git log --oneline
+git log -a
+git remote add origin https://github.com/seanpeng12/C-languageEx-WSL2-ubuntu18.04.git
+ls
+git status
+git push -u origin main
+git push -u origin master

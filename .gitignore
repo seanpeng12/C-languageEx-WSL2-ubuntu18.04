@@ -1,0 +1,8 @@
+/.vscode-server
+
+# 忽略所有附檔名是 .tmp 的檔案
+*.tmp
+
+/.cache
+/.config
+/.local

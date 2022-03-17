@@ -1,0 +1,35 @@
+#include <stdio.h>
+int foo(int *a , int size)
+{
+	//可用指標當陣列使用 而且指標開始的陣列也可以變動!
+	int *ptr =  &(a[2]);
+
+	for(int i = 0; i < size; i++){
+		printf("%d ", a[i]);
+	}
+
+}
+
+
+
+int main(void)
+{
+	int n;
+	printf("請輸入陣列個數:");
+	scanf("%d" , &n);
+	int a[n];
+	printf("請輸入%d個元素:",n);
+	for (int i = 0; i < n ; i++)
+		scanf("%d", &a[i]);
+
+	//用指標來把每個陣列元素加三
+	int *ptr = a;
+	for (int i = 0; i < n ; i++, ptr++){
+		*ptr += 3;
+		printf("%d ",a[i]);
+	}
+	printf("\n");
+
+	foo(a,n);
+	return 0;
+}

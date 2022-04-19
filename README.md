@@ -7,7 +7,7 @@
 * last change:2022.03.17
 
 
-# 感謝 #
+# Reference #
 
 * Windows10 WSL2 + Ubuntu 18.04
 1. https://docs.microsoft.com/zh-tw/windows/wsl/

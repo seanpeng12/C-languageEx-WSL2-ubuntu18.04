@@ -1376,3 +1376,261 @@ ls
 git status
 git push -u origin main
 git push -u origin master
+git status
+cat .bash_history
+git status
+git stastus
+git status
+git reset .
+git status
+git add .gitingore
+git add .gitignore
+git status
+cd ..
+ls
+git add .
+cd seanpeng12/
+git add .
+git status
+git log 
+git status
+git --log
+git status
+git login
+git push origin master
+ls
+ls 
+cd ..
+ls
+cd ..
+ls
+ls -a -l
+cd ..
+ls
+cd ..
+ls
+cd ~
+ls
+cd ..
+ls
+cd seanpeng12/
+ls -l
+ls -a -l
+cd .ssh/
+mkdir .ssh
+ls
+cd .ssh/
+ls
+cd ..
+ls
+ssh-keygen -t rsa
+ls
+cd .ssh
+ls
+cd ..
+ls
+ssh -T git@github.com
+git status
+git add .
+git reset .
+git status
+nano .gitignore 
+git status
+git add .
+git status
+git add .
+git commit -m "second commit"
+git status
+git push origin master
+gite remote
+git remote
+git remote -v
+git push origin master
+git remote rm origin
+git remote -v
+git remote add origin git@github.com:seanpeng12/C-languageEx-WSL2-ubuntu18.04.git
+git push -u origin master
+git push -u origin main
+git push -u origin master
+git push origin master
+git push
+git push origin
+git push origin master
+git push -f
+git push -f origin master
+git status
+git fetch
+git status
+git pull origin master
+git status
+ls
+ls -l
+cd ..
+ls
+cd seanpeng12/
+ls
+cd structureEx/
+ls
+nano test.c
+gcc -o test.c test
+gcc 
+gcc test.c -o test
+./test
+nano test.c
+ls
+ls -l
+cd stringEx/
+ls
+ls -l
+cat strlen.c
+nano strlen.c
+ls -l
+nano string-length.c
+gcc string-length.c  -o string-length
+nano string-length.c
+gcc string-length.c  -o string-length
+nano string-length.c
+gcc string-length.c  -o string-length
+nano string-length.c
+gcc string-length.c  -o string-length
+./string-length
+nano string-length.c
+./string-length
+gcc string-length.c  -o string-length
+nano string-length.c
+gcc string-length.c  -o string-length
+./string-length
+gcc string-length.c  -o string-length
+nano string-length.c
+ls -l
+nano linklist.c
+ls
+cd ..
+ls
+cd seanpeng12/
+l
+ls 
+l
+cd struc
+cd structureEx/
+ls
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+ls 
+cd ./
+cd ..
+ls
+cd stringEx/
+ls
+cat string-size.c
+ls -l
+cat strlen.c
+cat string-length.c
+ls -l
+cat char-pointer.c
+cd ..
+cd structureEx/
+ls
+nano test.c
+gcc test.c -o test
+ls
+gcc test.c -o test
+ls
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o testA
+gcc test.c -o test
+ls
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+nano test.c
+gcc test.c -o test
+./test
+nano test.c
+./test
+gcc test.c -o test
+./test
+nano test.c
+gcc test.c -o test
+./test
+ls
+cd stringEx/
+ls
+mkdir 20210416
+ls
+cd 20210416/
+ls
+mv 20210416 0416
+mkdir 0416
+ls
+cd ..
+ls
+cd ..
+cd stringEx/
+ls
+cd 20210416/
+ls
+rm -rf 0416
+ls
+cd ..
+lds
+ls
+nano test
+ls
+rm -rf test
+ls
+nano test.c 
+gcc test.c -o test
+nano test.c 
+gcc test.c -o test
+./ test
+./test
+nano test.c
+gcc test.c -o test
+./test
+nano test.c
+gcc test.c -o test
+./test
+nano test.c
+gcc test.c -o test
+./test
+nano test.c
+gcc test.c -o test
+./test
+nano test.c
+gcc test.c -o test
+./test

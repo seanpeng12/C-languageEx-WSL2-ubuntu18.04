@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdbool.h>
+
+
+int main(void){
+struct node{
+	char[] name = "sean";
+	int male = 1;
+	int age = 23;
+};
+
+	node temp;
+	temp.name = "peng";
+	printf("%d",temp.age);
+	return 0;
+}

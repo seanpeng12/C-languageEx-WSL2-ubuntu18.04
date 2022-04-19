@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <string.h> //用以使用相關字串函式
+#define STRINGLEN 80
+int main(void){
+	char string[STRINGLEN];
+	char *ptr = string;
+	scanf("%s", ptr);
+	printf("%s\n",ptr);
+	strlen();
+
+	int i = 0;
+	while(ptr[i] != '\0'){
+		printf("%c", ptr[i]);
+		i++;
+	}
+
+	//strlen
+	strlen();
+	return 0;
+}
